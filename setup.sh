@@ -8,3 +8,4 @@ enableCORS = false\n\\n\
 " >
 ~/.streamlit/config.tom|
       
+      
